@@ -37,8 +37,8 @@ It’s a small project, but a big step in my web development journey!
 ## Connect With Me
 
 **Abbas**  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [GitHub] 
+- [LinkedIn] (https://www.linkedin.com/in/abbas81khan/)
+- [GitHub] (https://github.com/dashboard)
 
 ---
 
