@@ -10,7 +10,7 @@ It performs basic arithmetic operations like:
 
 ## Live Demo
 
-You can try the calculator here: [Click to open](https://your-live-demo-link.com)
+You can try the calculator here: [ https://mini-calculator0.netlify.app/ ]
 
 ## About This Project
 
